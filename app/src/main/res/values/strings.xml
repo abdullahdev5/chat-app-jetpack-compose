@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chat App Compose</string>
+    <string name="title_activity_auth">AuthActivity</string>
+   <!-- <string name="username_info_text">
+
+    </string>-->
+</resources>
